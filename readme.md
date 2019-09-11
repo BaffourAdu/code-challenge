@@ -1,5 +1,5 @@
 # Testing Code Challenge
-A very simple code challenge about Testing
+A very simple code challenge about Testing in Laravel
 
 ## Installation
 **Note:** Make sure you have composer installed or you may downlaod composer at => https://getcomposer.org/download/
