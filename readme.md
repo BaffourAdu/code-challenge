@@ -1,4 +1,4 @@
-# Laravel GraphQL API Server
+# Testing Code Challenge
 A very simple code challenge about Testing
 
 ## Installation
